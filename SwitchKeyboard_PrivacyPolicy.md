@@ -1,7 +1,72 @@
 # Switch Keyboard — Legal Documents
 *Digital Upground*
 
----
+# Privacy Policy
+
+**Last updated: March 11, 2026**
+
+## 1. Introduction
+
+Digital Upground ("we", "our", "us") built the Switch Keyboard app ("the App") as a free app with optional premium features. This Privacy Policy explains how we handle information when you use the App and the choices you have regarding your data.
+
+## 2. Keyboard Input — What We Do NOT Collect
+
+Switch Keyboard does **NOT** collect, store, transmit, or share any text you type. All text input and keyboard processing is performed entirely on your device. We have no access to your keystrokes, passwords, messages, search queries, or any other content you enter using the keyboard.
+
+## 3. Data We May Collect
+
+We may collect the following non-personal, anonymized information to improve the App:
+
+- Crash reports and diagnostic data (via Android's built-in crash reporting)
+- Anonymous usage statistics (e.g. which features are used most)
+- Device type and OS version (for compatibility purposes)
+
+This information cannot be used to identify you personally.
+
+## 4. Advertising & Advertising ID
+
+The free version of the App displays advertisements via Google AdMob (Google LLC). Google AdMob may collect and use your device's advertising ID and other non-personal data to serve relevant ads. We use Google's User Messaging Platform (UMP) to obtain consent where required by law (e.g. GDPR in the EU/EEA, CCPA in California). You can reset or opt out of personalized ads in your device settings under Google > Ads.
+
+## 5. In-App Purchases
+
+Premium subscriptions are processed through Google Play Billing (Google LLC). We do not have access to your payment card information. All billing transactions are managed by Google in accordance with Google's Privacy Policy.
+
+## 6. Third-Party Services
+
+The App integrates the following third-party services, each subject to its own privacy policy:
+
+- **Google AdMob & UMP (Google LLC)** — Advertising and consent
+- **Google Play Billing (Google LLC)** — In-app purchases
+- **Coil** — Local image loading (no data sent externally)
+- **Lottie (Airbnb, Inc.)** — Local animation rendering (no data sent externally)
+- **Room (Google LLC)** — Local on-device database (no data sent externally)
+
+## 7. Permissions & Their Purpose
+
+The App requests the following permissions and uses them solely for the stated purpose:
+
+- **Vibrate** — Haptic feedback on key press (no data collected)
+- **Internet** — Required for ads, themes, and update checks
+- **Read Media Images** — Only to let you choose a wallpaper image (image stays on device)
+- **Post Notifications** — Optional notifications for app updates
+- **Record Audio** — Powers the voice-to-text feature; audio is processed on-device and not recorded or stored
+
+## 8. Data Retention & Children's Privacy
+
+Since we do not collect personal data, there is no personal data to retain or delete. Anonymous analytics data is retained for no longer than 12 months.
+
+The App is not directed at children under 13. We do not knowingly collect personally identifiable information from children under 13. If you believe we have inadvertently collected such data, please contact us.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy periodically. We will notify you of significant changes by updating the "Last updated" date at the top of this page. We encourage you to review this policy regularly.
+
+## 10. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+**Digital Upground**  
+Email: flashstudio.dev@gmail.com
 
 # Terms of Use
 
@@ -88,69 +153,4 @@ Email: flashstudio.dev@gmail.com
 
 ---
 
-# Privacy Policy
 
-**Last updated: March 11, 2026**
-
-## 1. Introduction
-
-Digital Upground ("we", "our", "us") built the Switch Keyboard app ("the App") as a free app with optional premium features. This Privacy Policy explains how we handle information when you use the App and the choices you have regarding your data.
-
-## 2. Keyboard Input — What We Do NOT Collect
-
-Switch Keyboard does **NOT** collect, store, transmit, or share any text you type. All text input and keyboard processing is performed entirely on your device. We have no access to your keystrokes, passwords, messages, search queries, or any other content you enter using the keyboard.
-
-## 3. Data We May Collect
-
-We may collect the following non-personal, anonymized information to improve the App:
-
-- Crash reports and diagnostic data (via Android's built-in crash reporting)
-- Anonymous usage statistics (e.g. which features are used most)
-- Device type and OS version (for compatibility purposes)
-
-This information cannot be used to identify you personally.
-
-## 4. Advertising & Advertising ID
-
-The free version of the App displays advertisements via Google AdMob (Google LLC). Google AdMob may collect and use your device's advertising ID and other non-personal data to serve relevant ads. We use Google's User Messaging Platform (UMP) to obtain consent where required by law (e.g. GDPR in the EU/EEA, CCPA in California). You can reset or opt out of personalized ads in your device settings under Google > Ads.
-
-## 5. In-App Purchases
-
-Premium subscriptions are processed through Google Play Billing (Google LLC). We do not have access to your payment card information. All billing transactions are managed by Google in accordance with Google's Privacy Policy.
-
-## 6. Third-Party Services
-
-The App integrates the following third-party services, each subject to its own privacy policy:
-
-- **Google AdMob & UMP (Google LLC)** — Advertising and consent
-- **Google Play Billing (Google LLC)** — In-app purchases
-- **Coil** — Local image loading (no data sent externally)
-- **Lottie (Airbnb, Inc.)** — Local animation rendering (no data sent externally)
-- **Room (Google LLC)** — Local on-device database (no data sent externally)
-
-## 7. Permissions & Their Purpose
-
-The App requests the following permissions and uses them solely for the stated purpose:
-
-- **Vibrate** — Haptic feedback on key press (no data collected)
-- **Internet** — Required for ads, themes, and update checks
-- **Read Media Images** — Only to let you choose a wallpaper image (image stays on device)
-- **Post Notifications** — Optional notifications for app updates
-- **Record Audio** — Powers the voice-to-text feature; audio is processed on-device and not recorded or stored
-
-## 8. Data Retention & Children's Privacy
-
-Since we do not collect personal data, there is no personal data to retain or delete. Anonymous analytics data is retained for no longer than 12 months.
-
-The App is not directed at children under 13. We do not knowingly collect personally identifiable information from children under 13. If you believe we have inadvertently collected such data, please contact us.
-
-## 9. Changes to This Policy
-
-We may update this Privacy Policy periodically. We will notify you of significant changes by updating the "Last updated" date at the top of this page. We encourage you to review this policy regularly.
-
-## 10. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-**Digital Upground**  
-Email: flashstudio.dev@gmail.com
